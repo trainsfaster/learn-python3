@@ -1,6 +1,8 @@
 <p align="center">
   <img src="logo.png" alt="logo"/>
 </p>
+
+
 ```
 # remove all the files
 rm -rf * .git
