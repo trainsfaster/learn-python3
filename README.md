@@ -1,6 +1,29 @@
 <p align="center">
   <img src="logo.png" alt="logo"/>
 </p>
+```
+# remove all the files
+rm -rf * .git
+#clone the repo 
+git clone https://github.com/trainsfaster/learn-python3.git
+#goto the directory
+cd learn-python3 
+#setup the environment
+git config --global user.email "a@b.c"
+git config --global user.name "trainsfaster"
+
+# For adding files
+
+git add .
+
+# For committing the changes
+
+git commit -m “My Message”
+
+# to push your changes
+git push
+
+```
 
 # Learn Python 3
 
